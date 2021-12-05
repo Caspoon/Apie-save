@@ -1,0 +1,55 @@
+html {
+  font-size: 20px;
+}
+
+body {
+  background: #064635;
+  color: #black;
+  font-family: Oswald;
+  font-size: 30px;
+}
+
+h1 {
+  text-align: left;
+  text-transform: capitalize;
+  text-shadow: 2px 2px 10px #519259;
+  font-weight: normal;
+  border: 5px dotted #F0BB62;
+  width: 80%;
+  margin: 50px auto;
+  padding: 30px;
+}
+
+.font-size {
+  font-size: 30px;
+}
+
+.heading2 {
+  font-size: 1rem;
+}
+
+.bg {
+  background: #05386B;
+}
+.border {
+  border: 3px outset #F0BB62;
+
+  }
+  #bg-gradient {
+    background: linear-gradient(#064635, #F0BB62);
+}
+.img {
+  display: block;
+  width: 300px;
+  margin: 30px auto;
+  border: 3px solid #519259;
+  border-radius: 8px;
+}
+.img:hover {
+  transform: scaleX(-1);
+}
+
+.sh-blue {
+  box-shadow: 10px 0 5px #519259;
+  opacity: 1;
+}
